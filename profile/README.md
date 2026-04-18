@@ -2,6 +2,8 @@
 
 # 🤖 AI Club
 
+A community of AI builders
+
 ![GitHub org](https://img.shields.io/badge/org-WeAIClub-blueviolet?style=flat-square&logo=github)
 ![Members](https://img.shields.io/badge/members-2-blue?style=flat-square)
 ![Projects](https://img.shields.io/badge/projects-1-green?style=flat-square)
